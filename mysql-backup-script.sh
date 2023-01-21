@@ -5,7 +5,7 @@
 # ---------------------------------------------------------------------
 
 ### System Setup ###
-BACKUP=/root/backup/database
+BACKUP=/root/backup/database  # Or put your backup directory
 DATE=$(date +"%d-%b-%Y")
 
 ### MySQL Setup ###
